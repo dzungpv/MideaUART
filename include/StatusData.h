@@ -1,6 +1,6 @@
 #pragma once
 #include <Arduino.h>
-#include "Frame/FrameData.h"
+#include "FrameData.h"
 
 namespace dudanov {
 namespace midea {

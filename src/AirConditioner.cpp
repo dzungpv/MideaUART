@@ -1,6 +1,6 @@
-#include "Appliance/AirConditioner/AirConditioner.h"
-#include "Helpers/Timer.h"
-#include "Helpers/Log.h"
+#include "AirConditioner.h"
+#include "Timer.h"
+#include "Log.h"
 
 namespace dudanov {
 namespace midea {

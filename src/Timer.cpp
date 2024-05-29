@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include "Helpers/Timer.h"
+#include "Timer.h"
 
 namespace dudanov {
 

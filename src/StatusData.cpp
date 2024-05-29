@@ -1,4 +1,4 @@
-#include "Appliance/AirConditioner/StatusData.h"
+#include "StatusData.h"
 
 namespace dudanov {
 namespace midea {

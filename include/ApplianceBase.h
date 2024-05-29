@@ -1,10 +1,10 @@
 #pragma once
 #include <deque>
 #include <Arduino.h>
-#include "Frame/Frame.h"
-#include "Frame/FrameData.h"
-#include "Helpers/Timer.h"
-#include "Helpers/Logger.h"
+#include "Frame.h"
+#include "FrameData.h"
+#include "Timer.h"
+#include "Logger.h"
 
 namespace dudanov {
 namespace midea {

@@ -1,8 +1,8 @@
 #pragma once
 #include <Arduino.h>
 #include <vector>
-#include "Frame/FrameData.h"
-#include "Helpers/Helpers.h"
+#include "FrameData.h"
+#include "Helpers.h"
 
 namespace dudanov {
 namespace midea {

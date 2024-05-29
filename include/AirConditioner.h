@@ -1,9 +1,9 @@
 #pragma once
 #include <Arduino.h>
-#include "Appliance/ApplianceBase.h"
-#include "Appliance/AirConditioner/Capabilities.h"
-#include "Appliance/AirConditioner/StatusData.h"
-#include "Helpers/Helpers.h"
+#include "ApplianceBase.h"
+#include "Capabilities.h"
+#include "StatusData.h"
+#include "Helpers.h"
 
 namespace dudanov {
 namespace midea {

@@ -1,5 +1,5 @@
-#include "Appliance/ApplianceBase.h"
-#include "Helpers/Log.h"
+#include "ApplianceBase.h"
+#include "Log.h"
 #ifdef ARDUINO_ARCH_ESP32
 #include <WiFi.h>
 #else

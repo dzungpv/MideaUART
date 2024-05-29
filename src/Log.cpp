@@ -1,6 +1,6 @@
-#include "Helpers/Log.h"
-#include "Helpers/Logger.h"
-#include "Appliance/ApplianceBase.h"
+#include "Log.h"
+#include "Logger.h"
+#include "ApplianceBase.h"
 
 namespace dudanov {
 

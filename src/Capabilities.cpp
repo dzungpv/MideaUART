@@ -1,6 +1,6 @@
-#include "Appliance/AirConditioner/Capabilities.h"
-#include "Frame/FrameData.h"
-#include "Helpers/Log.h"
+#include "Capabilities.h"
+#include "FrameData.h"
+#include "Log.h"
 
 namespace dudanov {
 namespace midea {
